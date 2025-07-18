@@ -4,19 +4,9 @@ This repository contains the mechanical design files and hand sketches for the A
 
 ---
 
-## 📁 Repository Structure
+<pre> ## 📁 Repository Structure ``` . ├── AMR CAD Design/ │ └── SolidWorks assemblies and parts of the AMR chassis and outer plates ├── MCU Enclosure Design/ │ └── CAD models of the microcontroller (MCU) protective enclosure └── hand sketches/ └── Hand-drawn design sketches of the AMR layout and enclosure ``` </pre>
 
-.
-├── AMR CAD Design/
-│ └── SolidWorks assemblies and parts of the AMR chassis and outer plates
-├── MCU Enclosure Design/
-│ └── CAD models of the microcontroller (MCU) protective enclosure
-└── hand sketches/
-└── Hand-drawn design sketches of the AMR layout and enclosure
 
-yaml
-Copy
-Edit
 
 ### 📂 `AMR CAD Design/`
 This folder contains:
