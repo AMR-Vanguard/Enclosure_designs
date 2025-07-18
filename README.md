@@ -3,8 +3,14 @@
 This repository contains the mechanical design files and hand sketches for the Autonomous Mobile Robot (AMR) developed as part of our robotics project. All designs were created using SolidWorks, and include both digital CAD models and early-stage hand-drawn concepts.
 
 ---
+.
+├── AMR CAD Design/
+│   └── SolidWorks assemblies and parts of the AMR chassis and outer plates
+├── MCU Enclosure Design/
+│   └── CAD models of the microcontroller (MCU) protective enclosure
+└── hand sketches/
+    └── Hand-drawn design sketches of the AMR layout and enclosure
 
-<pre> ## 📁 Repository Structure ``` . ├── AMR CAD Design/ │ └── SolidWorks assemblies and parts of the AMR chassis and outer plates ├── MCU Enclosure Design/ │ └── CAD models of the microcontroller (MCU) protective enclosure └── hand sketches/ └── Hand-drawn design sketches of the AMR layout and enclosure ``` </pre>
 
 
 
