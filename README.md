@@ -41,7 +41,7 @@ This folder includes:
 ## 🛠️ Tools & Software
 
 - **SolidWorks** – 3D CAD software used for all designs  
-  Recommended version: **SolidWorks 2022** or later
+  Recommended version: **SolidWorks 2020**
 
 ---
 
@@ -53,17 +53,9 @@ This folder includes:
 
 ---
 
-## 📷 Previews
 
-*(Add screenshots or renderings here if needed – optional)*  
-You can include `.png` or `.jpg` previews of the CAD designs to help visualize the models.
 
----
 
-## 👨‍💻 Contributors
-
-- **Ravindu Malshan** – Mechanical design and documentation  
-*(Add other team members if applicable)*
 
 ---
 
